@@ -1,0 +1,33 @@
+# Web Framework
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Audio Processing
+soundfile
+torchaudio
+
+# Deep Learning
+torch
+transformers
+numpy
+
+# Text-to-Speech
+gTTS
+groq
+
+# LLM
+google-generativeai
+
+# Database
+supabase
+
+# Configuration
+python-dotenv
+
+# Type hints
+pydantic
+
+fastapi
+uvicorn
+python-multipart
